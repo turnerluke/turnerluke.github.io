@@ -1,6 +1,11 @@
-title: Turner Luke
-logo: "/images/myFaceCirc.png?raw=true" # your photo (or logo) here
-description: > # your text below (remove <br> elements if you don't need line breaks)
+title: 
+ <p align="center">
+   Turner Luke
+ </p>
+ 
+logo: "/images/myFaceCirc.png?raw=true"  # Bio image
+
+description: > # Bio text (Left side)
  
   <p align="center">
     <a href="https://www.linkedin.com/in/turnermluke/">LinkedIn</a>
