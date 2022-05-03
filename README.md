@@ -7,10 +7,8 @@ See the website [here](https://turnerluke.github.io/).
 
 #### More Links
 
-[https://www.linkedin.com/in/turnermluke/](LinkedIn)
+[LinkedIn](https://www.linkedin.com/in/turnermluke/)
 
-[https://github.com/turnerluke/turnerluke/blob/main/Turner%20Luke%20Resume.pdf](Resume)
+[Resume](https://github.com/turnerluke/turnerluke/blob/main/Turner%20Luke%20Resume.pdf)
 
-[https://github.com/turnerluke/TurnerLuke.github.io](Portfolio)
-
-[https://medium.com/@turnermluke](Medium)
+[Medium](https://medium.com/@turnermluke)
