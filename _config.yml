@@ -1,8 +1,7 @@
 title: Turner Luke
 logo: "/images/myFaceCirc.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Medical device engineer seeking to translate passion for quantitative analysis into a data science career.
-  <br><br>
+ 
   <p align="center">
     <a href="https://www.linkedin.com/in/turnermluke/">LinkedIn</a>
     •
@@ -12,6 +11,11 @@ description: > # your text below (remove <br> elements if you don't need line br
     •
     <a href=https://medium.com/@turnermluke>Medium Blogposts</a>
   </p>
+  
+  <br>
+  
+  Medical device engineer seeking to translate passion for quantitative analysis into a data science career.
+  
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
