@@ -15,7 +15,7 @@ description: > # Bio text (Left side)
        <img src=https://img.shields.io/static/v1?label=&message=Resume&color=Red>
     </a>
     <a href=https://medium.com/@turnermluke>
-       <img src=https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white>
+       <img src=https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white height=20>
     </a>
     <a href=https://github.com/turnerluke>
        <img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white>
