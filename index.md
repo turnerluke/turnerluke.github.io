@@ -34,8 +34,8 @@ Currently the following algorithms have been made:
 - Gradient Descent Least-Squares Optimization with Regularization
 I got my start in Data Science blogging by writing about these algorithms on Towards Data Science, see my [Medium posts here.](https://medium.com/@turnermluke)
 
-[![](https://img.shields.io/badge/GitHub-View on Github-EE4C2C?logo=GitHub)](https://github.com/turnerluke/ML-algos)  
-
+[![Github](https://img.shields.io/badge/GitHub-View on Github-EE4C2C?logo=GitHub)](https://github.com/turnerluke/ML-algos)  
+[![made-with-latex](https://img.shields.io/badge/Made%20with-LaTeX-1f425f.svg)](https://www.latex-project.org/)
 ---
 
 ## [Computational Presentations](https://github.com/turnerluke/computational-presentations)
