@@ -37,14 +37,15 @@ I got my start in Data Science blogging by writing about these algorithms on Tow
 ---
 
 ## [Computational Presentations](https://github.com/turnerluke/computational-presentations)
-[![](https://img.shields.io/badge/GitHub-View on Github-EE4C2C?logo=GitHub)](https://github.com/turnerluke/computational-presentations)
+[![](https://img.shields.io/badge/GitHub-View on Github-EE4C2C?logo=GitHub)](https://github.com/turnerluke/computational-presentations)  
 A repository of my presentations from spring 2021 teaching computational coursework to chemical engineering undergraduate students.
 
 ---
 
-## Automation
 
 ### [Pokemon Card eBay Listing Automation](https://github.com/turnerluke/eBay-pokemon-card-automation)
+![](https://img.shields.io/static/v1?label=Skill&message=Automation&color=Blue)
+[![](https://img.shields.io/badge/GitHub-View on Github-EE4C2C?logo=GitHub)](https://github.com/turnerluke/eBay-pokemon-card-automation) 
 A use-specific automation of an e-commerce repetitive task utilizing an open-source API. Use has saved approximately 50 hours of work thusfar, and counting.
 
 ---
