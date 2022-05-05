@@ -31,6 +31,7 @@ Currently the following algorithms have been made:
 - Multi-Layer Perceptron Classifier Neural Network
 - Multi-Layer Perceptron Regressor Neural Network
 - Gradient Descent Least-Squares Optimization with Regularization
+
 I got my start in Data Science blogging by writing about these algorithms on Towards Data Science, see my [Medium posts here.](https://medium.com/@turnermluke)
 
 [![Github](https://img.shields.io/badge/GitHub-View on Github-EE4C2C?logo=GitHub)](https://github.com/turnerluke/ML-algos)  
