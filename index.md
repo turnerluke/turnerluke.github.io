@@ -17,7 +17,8 @@ An analysis of the UCI machine learning repository's red wine quality dataset, t
 
 ## [Twitter Sentiment Analysis](https://github.com/turnerluke/twitter-sentiment)
 An NLP machine learning pipeline for the Sentiment140 dataset.
-![](https://img.shields.io/static/v1?label=Skill&message=Natural Language Processing&color=Blue)
+
+![NLP](https://img.shields.io/static/v1?label=Skill&message=Natural%20Language%20Processing&color=Blue)
 ![](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)
 
 ---
@@ -34,8 +35,8 @@ Currently the following algorithms have been made:
 
 I got my start in Data Science blogging by writing about these algorithms on Towards Data Science, see my [Medium posts here.](https://medium.com/@turnermluke)
 
-[![Github](https://img.shields.io/badge/GitHub-View on Github-EE4C2C?logo=GitHub)](https://github.com/turnerluke/ML-algos)  
-[![made-with-latex](https://img.shields.io/badge/Made%20with-LaTeX-1f425f.svg)](https://www.latex-project.org/)
+[![](https://img.shields.io/badge/GitHub-View on Github-EE4C2C?logo=GitHub)](https://github.com/turnerluke/ML-algos)  
+[![](https://img.shields.io/badge/Made%20with-LaTeX-1f425f.svg)](https://www.latex-project.org/)
 
 ---
 
@@ -62,6 +63,7 @@ Coursework coved a variety of numerical methods and data operations, including b
 ---
 
 ## [Pokemon Card eBay Listing Automation](https://github.com/turnerluke/eBay-pokemon-card-automation)
+
 ![](https://img.shields.io/static/v1?label=Skill&message=Automation&color=Blue)
 ![](https://img.shields.io/static/v1?label=Skill&message=APIs&color=Blue)
 ![](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
