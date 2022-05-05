@@ -42,7 +42,11 @@ I got my start in Data Science blogging by writing about these algorithms on Tow
 
 ## [Computational Presentations](https://github.com/turnerluke/computational-presentations)
 
+<!--- 
 ![](https://github.com/turnerluke/turnerluke.github.io/blob/master/images/thumbnail_teaching.jpg)
+ -->
+
+<img scr=images/thumbnail_teaching.jpg>
 
 ![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
