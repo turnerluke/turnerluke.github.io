@@ -12,6 +12,7 @@ An analysis of the UCI machine learning repository's red wine quality dataset, t
 
 ![](https://img.shields.io/static/v1?label=Skill&message=Classification&color=Blue)
 ![](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)
+
 ---
 
 
@@ -42,11 +43,13 @@ I got my start in Data Science blogging by writing about these algorithms on Tow
 
 ## [Computational Presentations](https://github.com/turnerluke/computational-presentations)
 
-<!--- 
-![](https://github.com/turnerluke/turnerluke.github.io/blob/master/images/thumbnail_teaching.jpg)
- -->
 
-<img scr="/images/thumbnail_teaching.jpg&raw=true">
+![](https://github.com/turnerluke/turnerluke.github.io/blob/master/images/thumbnail_teaching.jpg)
+
+ 
+<!---
+<img scr="/images/myFaceCirc.png?raw=true">
+-->
 
 ![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
@@ -62,7 +65,6 @@ Coursework coved a variety of numerical methods and data operations, including b
 - Numerical integration
 - Nonlinear parameter estimation (least squares optimization)
 - Numerical solutions to differential equations
-
 
 ---
 
