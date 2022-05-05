@@ -46,6 +46,7 @@ I got my start in Data Science blogging by writing about these algorithms on Tow
 
 ![](https://github.com/turnerluke/turnerluke.github.io/blob/master/images/thumbnail_teaching.jpg)
 
+<img src="/images/thumbnail_teaching.jpg">
  
 <!---
 <img scr="/images/myFaceCirc.png?raw=true">
