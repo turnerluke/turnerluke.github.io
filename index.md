@@ -122,6 +122,8 @@ An analysis of datasets on SpaceX launches and landings. Utilizes a wide array o
 
 An analysis of the UCI machine learning repository's red wine quality dataset, to classify wine qualities from their characteristics.
 
+<img src="/images/thumbnail_wine.png">
+
 ---
 
 ## [Twitter Sentiment Analysis](https://github.com/turnerluke/twitter-sentiment)
@@ -146,3 +148,4 @@ An analysis of the UCI machine learning repository's red wine quality dataset, t
 
 An NLP machine learning pipeline for the Sentiment140 dataset.
 
+<img src="/images/thumbnail_twitter.png">
