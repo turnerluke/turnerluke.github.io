@@ -59,7 +59,7 @@ Coursework coved a variety of numerical methods and data operations, including b
 - Nonlinear parameter estimation (least squares optimization)
 - Numerical solutions to differential equations
 
-<img src="/images/thumbnail_teaching.jpg">
+<img src="/images/thumbnail_teaching.png">
 
 ---
 
