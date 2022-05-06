@@ -4,6 +4,9 @@
 
 ## [ML Algorithms](https://github.com/turnerluke/ML-algos)
 
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/turnerluke/ML-algos)
+
+<!---
 <p align="center">
     <a href="https://github.com/turnerluke/ML-algos">
        <img src=https://img.shields.io/badge/GitHub-View%20on%20Github-EE4C2C?logo=GitHub
@@ -14,6 +17,7 @@
        height=20>
     </a>
 </p>
+--->
 
 A collection of self-made machine learning algorithmns. Algorithms are created with the intent of better understanding the processes of these ML algos.  
 Currently the following algorithms have been made:
