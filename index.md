@@ -6,19 +6,6 @@
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/turnerluke/ML-algos)
 
-<!---
-<p align="center">
-    <a href="https://github.com/turnerluke/ML-algos">
-       <img src=https://img.shields.io/badge/GitHub-View%20on%20Github-EE4C2C?logo=GitHub
-       height=20>
-    </a>
-    <a href=https://www.latex-project.org/>
-       <img src=https://img.shields.io/badge/Made%20with-LaTeX-1f425f.svg
-       height=20>
-    </a>
-</p>
---->
-
 A collection of self-made machine learning algorithmns. Algorithms are created with the intent of better understanding the processes of these ML algos.  
 Currently the following algorithms have been made:
 - k-Nearest Neighbors Classification
@@ -34,23 +21,7 @@ I got my start in Data Science blogging by writing about these algorithms on Tow
 
 ## [Computational Presentations](https://github.com/turnerluke/computational-presentations)
 
-<p align="center">
-  
-  <a href=https://www.python.org/>
-    <img src=https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue 
-        height=20>
-  </a>
-  
-  <a href = https://www.jetbrains.com/pycharm/>
-    <img src=https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white
-        height=20>
-  </a>
-  
-  <a href=https://github.com/turnerluke/computational-presentations>
-    <img src=https://img.shields.io/badge/GitHub-View%20on%20Github-EE4C2C?logo=GitHub
-       height=20>
-  </a>
-</p>
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/turnerluke/computational-presentations)
 
 A repository of my presentations from spring 2021 teaching computational coursework to chemical engineering undergraduate students.  
 Coursework coved a variety of numerical methods and data operations, including but not limited to:
@@ -69,60 +40,17 @@ Coursework coved a variety of numerical methods and data operations, including b
 
 ## [Pokemon Card eBay Listing Automation](https://github.com/turnerluke/eBay-pokemon-card-automation)
 
-<p align="center">
-  <a href = "">
-    <img src=https://img.shields.io/static/v1?label=Skill&message=Automation&color=Blue
-         height=20>
-  </a>
-  
-  <a href = "">
-     <img src=https://img.shields.io/static/v1?label=Skill&message=APIs&color=Blue
-          height=20>
-  </a>
-  
-  <a href = https://www.jetbrains.com/pycharm/>
-    <img src=https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white
-        height=20>
-  </a>
-  
-  <a href=https://github.com/turnerluke/eBay-pokemon-card-automation>
-    <img src=https://img.shields.io/badge/GitHub-View%20on%20Github-EE4C2C?logo=GitHub
-       height=20>
-  </a>
-  
-</p>
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/turnerluke/eBay-pokemon-card-automation)
 
 A use-specific automation of an e-commerce repetitive task utilizing an open-source API. Use has saved approximately 50 hours of work thusfar, and counting.
 
 ---
 
----
-
-## [SpaceX Landing Analysis](https://github.com/turnerluke/spacex-success-analysis)
-
-An analysis of datasets on SpaceX launches and landings. Utilizes a wide array of data science concepts, including: Jupyter notebooks, webscraping, APIs, data cleaning, interactive visualizations, dashboard creation, SQL database operation, and ML predictions.
-
----
 
 ## [Red Wine Quality Classification](https://github.com/turnerluke/red-wine-classification)
 
-<p align="center">
-  <a href = "https://www.kaggle.com/code/turnerluke/red-wine-quality-classification">
-    <img src=https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white
-         height=20>
-  </a>
-  
-  <a href = "">
-     <img src=https://img.shields.io/static/v1?label=Skill&message=Classification&color=Blue
-          height=20>
-  </a>
-  
-  <a href=https://github.com/turnerluke/red-wine-classification>
-    <img src=https://img.shields.io/badge/GitHub-View%20on%20Github-EE4C2C?logo=GitHub
-       height=20>
-  </a>
-  
-</p>
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/turnerluke/red-wine-classification)
+
 
 An analysis of the UCI machine learning repository's red wine quality dataset, to classify wine qualities from their characteristics.
 
@@ -132,24 +60,18 @@ An analysis of the UCI machine learning repository's red wine quality dataset, t
 
 ## [Twitter Sentiment Analysis](https://github.com/turnerluke/twitter-sentiment)
 
-<p align="center">
-  <a href = "https://www.kaggle.com/code/turnerluke/basic-nlp-twitter-sentiment-analysis">
-    <img src=https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white
-         height=20>
-  </a>
-  
-  <a href = "">
-     <img src=https://img.shields.io/static/v1?label=Skill&message=Natural%20Language%20Processing&color=Blue
-          height=20>
-  </a>
-  
-  <a href=https://github.com/turnerluke/twitter-sentiment>
-    <img src=https://img.shields.io/badge/GitHub-View%20on%20Github-EE4C2C?logo=GitHub
-       height=20>
-  </a>
-  
-</p>
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/turnerluke/twitter-sentiment)
 
 An NLP machine learning pipeline for the Sentiment140 dataset.
 
-<img src="/images/thumbnail_twitter.png">
+<img src="/images/thumbnail_twitter.png">j
+
+---
+
+## [SpaceX Landing Analysis](https://github.com/turnerluke/spacex-success-analysis)
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/turnerluke/spacex-success-analysis)
+
+An analysis of datasets on SpaceX launches and landings. Utilizes a wide array of data science concepts, including: Jupyter notebooks, webscraping, APIs, data cleaning, interactive visualizations, dashboard creation, SQL database operation, and ML predictions.
+
+---
