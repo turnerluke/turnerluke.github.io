@@ -52,9 +52,7 @@ A use-specific automation of a repetitive e-commerce task utilizing an open-sour
 ## [Red Wine Quality Classification](https://github.com/turnerluke/red-wine-classification)
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/turnerluke/red-wine-classification)
-
 [![EDA](https://img.shields.io/badge/Kaggle-View_EDA-blue?logo=Kaggle)](https://www.kaggle.com/code/turnerluke/red-wine-quality-eda)
-
 [![ML](https://img.shields.io/badge/Kaggle-View_ML_Prediction-blue?logo=Kaggle)](https://www.kaggle.com/code/turnerluke/red-wine-quality-classification)
 
 An analysis of the UCI machine learning repository's red wine quality dataset, to classify wine qualities from their characteristics.
@@ -67,7 +65,7 @@ An analysis of the UCI machine learning repository's red wine quality dataset, t
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/turnerluke/twitter-sentiment)
 
-[![View on Kaggle]https://img.shields.io/badge/Kaggle-View_on_Kaggle-blue?logo=Kaggle)](https://www.kaggle.com/code/turnerluke/basic-nlp-twitter-sentiment-analysis)
+[![View on Kaggle](https://img.shields.io/badge/Kaggle-View_on_Kaggle-blue?logo=Kaggle)](https://www.kaggle.com/code/turnerluke/basic-nlp-twitter-sentiment-analysis)
 
 An NLP machine learning pipeline for the Sentiment140 dataset.
 
