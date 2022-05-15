@@ -46,6 +46,8 @@ Coursework coved a variety of numerical methods and data operations, including b
 
 A use-specific automation of a repetitive e-commerce task utilizing an open-source API and computer vision. Use has saved approximately 50 hours of work thusfar, and counting.
 
+<img src="/images/eBay Automation Flowchart.jpg">
+
 ---
 
 
