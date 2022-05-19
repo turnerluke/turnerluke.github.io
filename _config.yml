@@ -39,10 +39,15 @@ description: > # Bio text (Left side)
   
   <img src= /images/map_pin.png height=24>   Austin, Texas
   
-  
   <br>
-  <img src= /images/map_pin.png height=24>
+  <br>
+  
+  
+  
   <div class="center">
+   <p>
+    <img src= /images/map_pin.png height=24>
+   </p>
    <p>
     Austin, Texas
    </p>
