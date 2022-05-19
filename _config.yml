@@ -10,7 +10,7 @@ description: > # Bio text (Left side)
   <style>
   .center {
    margin: 0;
-   width: 0%;
+   width: 30%;
    padding: 2px;
   }
   </style>
