@@ -7,6 +7,16 @@ logo: "/images/myFaceCirc.png?raw=true"  # Bio image
 
 description: > # Bio text (Left side)
   
+  <style>
+  .center {
+   margin: auto;
+   width: 60%;
+   border: 3px solid #73AD21;
+   padding: 10px;
+  }
+  </style>
+  
+  
   <p align="center">
     <a href="https://www.linkedin.com/in/turnermluke/">
        <img src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
@@ -33,17 +43,12 @@ description: > # Bio text (Left side)
   
   <br>
   
-  <img src= /images/map_pin.png height=24>
-  <style>
-  .intro {
-   width: 200px;
-  }
-  </style>
-  <body>
-    <div class="intro">
-      Austin, Texas
-    </div>
-  </body>
+  <div class="center">
+   <p>
+    <img src= /images/map_pin.png height=24>
+    Austin, Texas
+   </p>
+  </div>
   
   <br>
   <br>
