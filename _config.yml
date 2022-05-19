@@ -42,7 +42,7 @@ description: > # Bio text (Left side)
   <br>
   <br>
   
-  
+  <!--
   <p>
   <img src= /images/map_pin.png height=24>
   <div class="center">
@@ -54,7 +54,7 @@ description: > # Bio text (Left side)
    </p>
   </div>
   </p>
-  
+  -->
   <br>
   <br>
   
