@@ -9,8 +9,8 @@ description: > # Bio text (Left side)
   
   <style>
   .center {
-   margin: auto;
-   width: 60%;
+   margin: 0;
+   width: 0%;
    padding: 2px;
   }
   </style>
