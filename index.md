@@ -1,10 +1,23 @@
 # Portfolio
+<!---
+---
+## [Digit Recognition Web App](https://github.com/turnerluke/digit_recog)
 
+[![Heroku Web App](https://img.shields.io/static/v1?label=Heroku&message=View Web App&color=red&style=&logo=Heroku&logoColor=&logoWidth=&labelColor=&link=)](https://drawn-digit-recognition.herokuapp.com/)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/turnerluke/digit_recog)
+[![Colab](https://img.shields.io/static/v1?label=Colab&message=Model Training&color=orange&style=&logo=Google Colab&logoColor=&logoWidth=&labelColor=&link=)](https://colab.research.google.com/github/turnerluke/digit_recog/blob/main/models/LeNet_5_train.ipynb)
+
+Description
+
+<img src="/images/add image here">
+
+-->
 ---
 
 ## [ML Algorithms](https://github.com/turnerluke/ML-algos)
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/turnerluke/ML-algos)
+
 
 A collection of self-made machine learning algorithmns. Algorithms are created with the intent of better understanding the processes behind each machine learning algorithm, as well as to communicate technical data science information.  
 
