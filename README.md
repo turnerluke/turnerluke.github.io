@@ -15,7 +15,7 @@ See the website [here](https://turnerluke.github.io/).
 
 
 
-TODO:
+TODO:  
 -Change all badges to "For the Badge" style - https://shields-io-customizer.herokuapp.com/  
 -Add web app project.
 
