@@ -1,17 +1,17 @@
 # Portfolio
-<!---
+
 ---
 ## [Digit Recognition Web App](https://github.com/turnerluke/digit_recog)
 
-[![Heroku Web App](https://img.shields.io/static/v1?label=Heroku&message=View Web App&color=red&style=&logo=Heroku&style=for-the-badge)](https://drawn-digit-recognition.herokuapp.com/)
+[![Heroku Web App](https://img.shields.io/static/v1?label=Heroku&message=View%20Web%20App&color=red&style=for-the-badge&logo=Heroku)](https://drawn-digit-recognition.herokuapp.com/)
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub&style=for-the-badge)](https://github.com/turnerluke/digit_recog)
-[![Colab](https://img.shields.io/static/v1?label=Colab&message=Model Training&color=orange&style=&logo=Google Colab&style=for-the-badge)](https://colab.research.google.com/github/turnerluke/digit_recog/blob/main/models/LeNet_5_train.ipynb)
+[![Colab](https://img.shields.io/static/v1?label=Colab&message=Model%20Training&color=orange&style=for-the-badge&logo=Google%20Colab)](https://colab.research.google.com/github/turnerluke/digit_recog/blob/main/models/LeNet_5_train.ipynb)
 
 A web app, created in Flask and deployed on Heroku, takes the users input as a digit drawing on a canvas and outputs a prediction. This app is my attempt to take the "hello world" of neural networks, digit prediciton from the MNIST dataset, all the way to a deployed model on a polished website.
 
 <img src="/images/add image here">
 
--->
+
 ---
 
 ## [ML Algorithms](https://github.com/turnerluke/ML-algos)
