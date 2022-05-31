@@ -3,11 +3,11 @@
 ---
 ## [Digit Recognition Web App](https://github.com/turnerluke/digit_recog)
 
-[![Heroku Web App](https://img.shields.io/static/v1?label=Heroku&message=View Web App&color=red&style=&logo=Heroku&logoColor=&logoWidth=&labelColor=&link=)](https://drawn-digit-recognition.herokuapp.com/)
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/turnerluke/digit_recog)
-[![Colab](https://img.shields.io/static/v1?label=Colab&message=Model Training&color=orange&style=&logo=Google Colab&logoColor=&logoWidth=&labelColor=&link=)](https://colab.research.google.com/github/turnerluke/digit_recog/blob/main/models/LeNet_5_train.ipynb)
+[![Heroku Web App](https://img.shields.io/static/v1?label=Heroku&message=View Web App&color=red&style=&logo=Heroku&style=for-the-badge)](https://drawn-digit-recognition.herokuapp.com/)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub&style=for-the-badge)](https://github.com/turnerluke/digit_recog)
+[![Colab](https://img.shields.io/static/v1?label=Colab&message=Model Training&color=orange&style=&logo=Google Colab&style=for-the-badge)](https://colab.research.google.com/github/turnerluke/digit_recog/blob/main/models/LeNet_5_train.ipynb)
 
-Description
+A web app, created in Flask and deployed on Heroku, takes the users input as a digit drawing on a canvas and outputs a prediction. This app is my attempt to take the "hello world" of neural networks, digit prediciton from the MNIST dataset, all the way to a deployed model on a polished website.
 
 <img src="/images/add image here">
 
@@ -16,7 +16,7 @@ Description
 
 ## [ML Algorithms](https://github.com/turnerluke/ML-algos)
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/turnerluke/ML-algos)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub&style=for-the-badge)](https://github.com/turnerluke/ML-algos)
 
 
 A collection of self-made machine learning algorithmns. Algorithms are created with the intent of better understanding the processes behind each machine learning algorithm, as well as to communicate technical data science information.  
@@ -35,7 +35,7 @@ I got my start in Data Science blogging by writing about these algorithms on Tow
 
 ## [Computational Presentations](https://github.com/turnerluke/computational-presentations)
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/turnerluke/computational-presentations)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub&style=for-the-badge)](https://github.com/turnerluke/computational-presentations)
 
 A repository of my presentations from spring 2021 teaching computational coursework to chemical engineering undergraduate students. The course topics were set by the university, however these presentations and the examples with their code were made entirely from scratch.
 
@@ -55,7 +55,7 @@ Coursework coved a variety of numerical methods and data operations, including b
 
 ## [Pokemon Card eBay Listing Automation](https://github.com/turnerluke/eBay-pokemon-card-automation)
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/turnerluke/eBay-pokemon-card-automation)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub&style=for-the-badge)](https://github.com/turnerluke/eBay-pokemon-card-automation)
 
 A use-specific automation of a repetitive e-commerce task utilizing an open-source API and computer vision. Use has saved approximately 50 hours of work thusfar, and counting.
 
@@ -66,9 +66,9 @@ A use-specific automation of a repetitive e-commerce task utilizing an open-sour
 
 ## [Red Wine Quality Classification](https://github.com/turnerluke/red-wine-classification)
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/turnerluke/red-wine-classification)
-[![EDA](https://img.shields.io/badge/Kaggle-View_EDA-blue?logo=Kaggle)](https://www.kaggle.com/code/turnerluke/red-wine-quality-eda)
-[![ML](https://img.shields.io/badge/Kaggle-View_ML_Prediction-blue?logo=Kaggle)](https://www.kaggle.com/code/turnerluke/red-wine-quality-classification)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub&style=for-the-badge)](https://github.com/turnerluke/red-wine-classification)
+[![EDA](https://img.shields.io/badge/Kaggle-View_EDA-blue?logo=Kaggle&style=for-the-badge)](https://www.kaggle.com/code/turnerluke/red-wine-quality-eda)
+[![ML](https://img.shields.io/badge/Kaggle-View_ML_Prediction-blue?logo=Kaggle&style=for-the-badge)](https://www.kaggle.com/code/turnerluke/red-wine-quality-classification)
 
 An analysis of the UCI machine learning repository's red wine quality dataset, to classify wine qualities from their characteristics.
 
@@ -78,8 +78,8 @@ An analysis of the UCI machine learning repository's red wine quality dataset, t
 
 ## [Twitter Sentiment Analysis](https://github.com/turnerluke/twitter-sentiment)
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/turnerluke/twitter-sentiment)
-[![View on Kaggle](https://img.shields.io/badge/Kaggle-View_on_Kaggle-blue?logo=Kaggle)](https://www.kaggle.com/code/turnerluke/basic-nlp-twitter-sentiment-analysis)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub&style=for-the-badge)](https://github.com/turnerluke/twitter-sentiment)
+[![View on Kaggle](https://img.shields.io/badge/Kaggle-View_on_Kaggle-blue?logo=Kaggle&style=for-the-badge)](https://www.kaggle.com/code/turnerluke/basic-nlp-twitter-sentiment-analysis)
 
 An NLP machine learning pipeline for the Sentiment140 dataset.
 
@@ -89,7 +89,7 @@ An NLP machine learning pipeline for the Sentiment140 dataset.
 
 ## [SpaceX Landing Analysis](https://github.com/turnerluke/spacex-success-analysis)
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/turnerluke/spacex-success-analysis)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub&style=for-the-badge)](https://github.com/turnerluke/spacex-success-analysis)
 
 An analysis of datasets on SpaceX launches and landings. Utilizes a wide array of data science concepts, including: Jupyter notebooks, webscraping, APIs, data cleaning, interactive visualizations, dashboard creation, SQL database operation, and ML predictions.
 
