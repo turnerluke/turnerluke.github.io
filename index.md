@@ -9,7 +9,7 @@
 
 A web app, created in Flask and deployed on Heroku, takes the users input as a digit drawing on a canvas and outputs a prediction. This app is my over-engineered take on the "Hello World" of neural networks, digit prediciton from the MNIST dataset, which takes the project all the way to a deployed model on a polished website. While many of the technologies used may not be needed in a Data Science role (web developement/deployment, HTML, JavaScript, css, etc), I believe the ability to present a ML model with no technical jargon and the ability to quickly learn new technologies are critical qualities of modern Data Scientists.
 
-<img src="/images/add image here">
+<img src="/images/web_app.PNG">
 
 ---
 
