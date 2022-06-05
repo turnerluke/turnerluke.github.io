@@ -16,6 +16,7 @@ A web app, created in Flask and deployed on Heroku, takes the users input as a d
 ## [ML Algorithms](https://github.com/turnerluke/ML-algos)
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub&style=for-the-badge)](https://github.com/turnerluke/ML-algos)
+[![Medium](https://img.shields.io/static/v1?label=Medium&message=View%20on%20Medium&color=red&style=for-the-badge&logo=Medium)](https://medium.com/@turnermluke)
 
 
 A collection of self-made machine learning algorithmns. Algorithms are created with the intent of better understanding the processes behind each machine learning algorithm, as well as to communicate technical data science information.  
