@@ -13,6 +13,14 @@ A web app, created in Flask and deployed on Heroku, takes the users input as a d
 
 ---
 
+## [Data Structures and Algorithms Projects](https://github.com/turnerluke/DS-Algo-Projects)
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub&style=for-the-badge)](https://github.com/turnerluke/DS-Algo-Projects)
+
+A collection of projects created during coursework for a graduate-level data structures and algorithms course.
+
+---
+
 ## [ML Algorithms](https://github.com/turnerluke/ML-algos)
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub&style=for-the-badge)](https://github.com/turnerluke/ML-algos)
