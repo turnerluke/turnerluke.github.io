@@ -3,7 +3,7 @@
 ---
 ## [Digit Recognition Web App](https://github.com/turnerluke/digit_recog)
 
-[![Web App](https://img.shields.io/static/v1?label=streamlit&message=View%20Web%20App&color=48F1C3&style=for-the-badge&logo=streamlit)](https://digit-recog.streamlit.app/)
+[![Web App](https://img.shields.io/static/v1?label=streamlit&message=View%20Web%20App&color=bd4043&style=for-the-badge&logo=streamlit)](https://digit-recog.streamlit.app/)
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub&style=for-the-badge)](https://github.com/turnerluke/digit_recog)
 [![Colab](https://img.shields.io/static/v1?label=Colab&message=Model%20Training&color=orange&style=for-the-badge&logo=Google%20Colab)](https://colab.research.google.com/github/turnerluke/digit_recog/blob/main/models/LeNet_5_train.ipynb)
 
