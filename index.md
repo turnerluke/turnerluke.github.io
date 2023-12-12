@@ -3,11 +3,11 @@
 ---
 ## [Digit Recognition Web App](https://github.com/turnerluke/digit_recog)
 
-[![Web App](https://img.shields.io/static/v1?label=Render&message=View%20Web%20App&color=48F1C3&style=for-the-badge&logo=Render)](https://digit-recog.onrender.com/)
+[![Web App](https://img.shields.io/static/v1?label=Render&message=View%20Web%20App&color=48F1C3&style=for-the-badge&logo=streamlit)](https://digit-recog.streamlit.app/)
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub&style=for-the-badge)](https://github.com/turnerluke/digit_recog)
 [![Colab](https://img.shields.io/static/v1?label=Colab&message=Model%20Training&color=orange&style=for-the-badge&logo=Google%20Colab)](https://colab.research.google.com/github/turnerluke/digit_recog/blob/main/models/LeNet_5_train.ipynb)
 
-A web app, created in Flask and deployed on Render.com, takes the users input as a digit drawing on a canvas and outputs a prediction. This app is my over-engineered take on the "Hello World" of neural networks, digit prediciton from the MNIST dataset, which takes the project all the way to a deployed model on a polished website. While many of the technologies used may not be needed in a Data Science role (web developement/deployment, HTML, JavaScript, css, etc), I believe the ability to present a ML model with no technical jargon and the ability to quickly learn new technologies are critical qualities of modern Data Scientists. This web app will likely not work over the free instance of Render.
+A web app, deployed on streamlit, takes the users input as a digit drawing on a canvas and outputs a prediction. This app is my over-engineered take on the "Hello World" of neural networks, digit prediciton from the MNIST dataset, which takes the project all the way to a deployed model on a polished website. This web app went through many iterations, starting as a Flask app on Heroku, to the same app on Render, landing now on a streamlit app. The previous implementation in Flask can be found
 
 <img src="/images/web_app.PNG">
 
