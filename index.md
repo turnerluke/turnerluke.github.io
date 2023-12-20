@@ -7,7 +7,7 @@
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub&style=for-the-badge)](https://github.com/turnerluke/digit_recog)
 [![Colab](https://img.shields.io/static/v1?label=Colab&message=Model%20Training&color=orange&style=for-the-badge&logo=Google%20Colab)](https://colab.research.google.com/github/turnerluke/digit_recog/blob/main/models/LeNet_5_train.ipynb)
 
-A web app, deployed on streamlit, takes the users input as a digit drawing on a canvas and outputs a prediction. This app is my over-engineered take on the "Hello World" of neural networks, digit prediciton from the MNIST dataset, which takes the project all the way to a deployed model on a polished website. This web app went through many iterations, starting as a Flask app on Heroku, to the same app on Render, landing now on a streamlit app. The previous implementation in Flask can be found
+A web app, deployed on streamlit, takes the users input as a digit drawing on a canvas and outputs a prediction. This app is my over-engineered take on the "Hello World" of neural networks, digit prediciton from the MNIST dataset, which takes the project all the way to a deployed model on a polished website. This web app went through many iterations, starting as a Flask app on Heroku, to the same app on Render, landing now on a streamlit app. The previous implementation in Flask can be found in the GitHub repo.
 
 <img src="/images/web_app.PNG">
 
