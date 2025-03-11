@@ -50,5 +50,5 @@ description: > # Bio text (Left side)
   University of Wisconsin - Madison, BS: Chemical Engineering, BS: Chemistry
   
   
-theme: jekyll-theme-minimal
+theme: jekyll-theme-dark-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
