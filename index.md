@@ -1,6 +1,14 @@
 # Portfolio
 
 ---
+## [End-to-End Data Engineering Pipeline](https://github.com/turnerluke/fetch-analytics-challenge)
+
+[![Evidence Dashboard](https://img.shields.io/static/v1?label=Evidence&message=View%20Evidence%20Dashboard&color=black&style=for-the-badge&logo=data:image/svg%2bxml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBzdGFuZGFsb25lPSJubyI/Pgo8IURPQ1RZUEUgc3ZnIFBVQkxJQyAiLS8vVzNDLy9EVEQgU1ZHIDIwMDEwOTA0Ly9FTiIKICJodHRwOi8vd3d3LnczLm9yZy9UUi8yMDAxL1JFQy1TVkctMjAwMTA5MDQvRFREL3N2ZzEwLmR0ZCI+CjxzdmcgdmVyc2lvbj0iMS4wIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciCiB3aWR0aD0iNDAwLjAwMDAwMHB0IiBoZWlnaHQ9IjQwMC4wMDAwMDBwdCIgdmlld0JveD0iMCAwIDQwMC4wMDAwMDAgNDAwLjAwMDAwMCIKIHByZXNlcnZlQXNwZWN0UmF0aW89InhNaWRZTWlkIG1lZXQiPgoKPGcgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMC4wMDAwMDAsNDAwLjAwMDAwMCkgc2NhbGUoMC4xMDAwMDAsLTAuMTAwMDAwKSIKZmlsbD0iIzAwMDAwMCIgc3Ryb2tlPSJub25lIj4KPHBhdGggZD0iTTAgMjAwMCBsMCAtMjAwMCAyMDAwIDAgMjAwMCAwIDAgMjAwMCAwIDIwMDAgLTIwMDAgMCAtMjAwMCAwIDAKLTIwMDB6IG0yODQzIDkxNCBsNzcgLTcgMCAtMTk5IDAgLTE5OSAtMTg3IDcgYy0zMzIgMTEgLTUxMCAtMTcgLTcyMiAtMTE1Ci0yMjkgLTEwNiAtMzExIC0xMjEgLTY3MyAtMTIxIGwtMjU4IDAgMCAyMDAgMCAyMDAgMjUzIDAgYzM1OSAwIDQ1NyAxOCA2NzcKMTIzIDEzOCA2NSAyNTQgOTYgNDE1IDExMCA3NSA3IDM0MiA3IDQxOCAxeiBtLTMxMyAtNzkzIGwwIC0xOTggLTk3IC03IGMtMTc4Ci0xMiAtMjQ0IC0zMSAtNDk4IC0xNDMgLTE2OSAtNzUgLTI5MSAtOTMgLTYyNyAtOTMgbC0yMjggMCAwIDE5OSAwIDE5OSAyNzggNQpjMzU4IDYgNDU5IDI1IDY2MiAxMjcgMTMwIDY1IDMwMCAxMDcgNDQ4IDEwOSBsNjIgMSAwIC0xOTl6IG0zMDggLTQwMSBsODIgMAowIC0yMDAgMCAtMjAwIC0yNTcgMSBjLTM1MyAxIC00NDkgLTE3IC02NzIgLTEyMCAtNjkgLTMzIC0xNjQgLTY4IC0yMTEgLTgwCi0xMjMgLTMxIC0zMzQgLTQ1IC01MzIgLTM2IGwtMTY4IDcgMCAyMDEgMCAyMDAgMTcwIC03IGMxOTkgLTcgNDE4IDcgNTI3IDM0CjQyIDExIDExMyAzNiAxNTcgNTYgMjQ1IDExMCAzMTIgMTI5IDQ5NiAxNDQgNTggNSAxNTUgNyAyMTUgNCA2MSAtMiAxNDcgLTQKMTkzIC00eiIvPgo8L2c+Cjwvc3ZnPgo=)](https://turnerluke.github.io/fetch-analytics-challenge/)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub&style=for-the-badge)](https://github.com/turnerluke/fetch-analytics-challenge)
+
+An end-to-end data engineering project that transforms messy, unstructured data into a robust, structured data warehouse using modern tools such as dbt, Polars, duckdb, pydantic, and evidence.dev. The project encompasses data ingestion, cleaning, transformation, and analysis—culminating in interactive dashboards that deliver actionable insights to business stakeholders. Demonstrates an ability to build scalable, reproducible data pipelines and optimize data assets for performance and clarity.
+
+---
 ## [Digit Recognition Web App](https://github.com/turnerluke/digit_recog)
 
 [![Web App](https://img.shields.io/static/v1?label=streamlit&message=View%20Web%20App&color=bd4043&style=for-the-badge&logo=streamlit)](https://digit-recog.streamlit.app/)
