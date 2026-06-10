@@ -2,9 +2,10 @@
 layout: default
 title: Portfolio
 description: >-
-  Turner Luke — Data Scientist in Austin, TX. A portfolio of data engineering,
-  machine learning, and analytics projects spanning dbt, Polars, neural networks,
-  NLP, and end-to-end data pipelines.
+  Turner Luke — Data Engineer. A portfolio of data engineering, machine learning,
+  and analytics projects spanning dbt, Polars, neural networks, NLP, and
+  end-to-end data pipelines.
+image: /assets/og-image.png
 ---
 
 # Portfolio
