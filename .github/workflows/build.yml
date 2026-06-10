@@ -1,0 +1,30 @@
+name: Build
+
+# Builds the site with the same github-pages gem set GitHub Pages uses, so a
+# broken build (bad theme, config, or Liquid) fails the PR check instead of
+# silently failing the Pages deploy after merge.
+
+on:
+  pull_request:
+  push:
+    branches: [master]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  jekyll-build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: "3.3"
+          bundler-cache: true
+
+      - name: Build with Jekyll
+        run: bundle exec jekyll build --trace
+        env:
+          JEKYLL_ENV: production
