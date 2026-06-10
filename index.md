@@ -41,7 +41,6 @@ A collection of projects created during coursework for a graduate-level data str
 ## [ML Algorithms](https://github.com/turnerluke/ML-algos)
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub&style=for-the-badge)](https://github.com/turnerluke/ML-algos)
-[![Medium](https://img.shields.io/static/v1?label=Medium&message=View%20on%20Medium&color=red&style=for-the-badge&logo=Medium)](https://medium.com/@turnermluke)
 
 
 A collection of self-made machine learning algorithmns. Algorithms are created with the intent of better understanding the processes behind each machine learning algorithm, as well as to communicate technical data science information.  
@@ -53,8 +52,6 @@ Currently the following algorithms have constructed:
 - Multi-Layer Perceptron Classifier Neural Network
 - Multi-Layer Perceptron Regressor Neural Network
 - Gradient Descent Least-Squares Optimization with Regularization
-
-I got my start in Data Science blogging by writing about these algorithms on Towards Data Science, see my [Medium posts here.](https://medium.com/@turnermluke)
 
 ---
 
