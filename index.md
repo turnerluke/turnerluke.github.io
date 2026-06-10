@@ -1,6 +1,10 @@
 ---
 layout: default
 title: Portfolio
+description: >-
+  Turner Luke — Data Scientist in Austin, TX. A portfolio of data engineering,
+  machine learning, and analytics projects spanning dbt, Polars, neural networks,
+  NLP, and end-to-end data pipelines.
 ---
 
 # Portfolio
@@ -22,7 +26,7 @@ An end-to-end data engineering project that transforms messy, unstructured data 
 
 A web app, deployed on streamlit, takes the users input as a digit drawing on a canvas and outputs a prediction. This app is my over-engineered take on the "Hello World" of neural networks, digit prediciton from the MNIST dataset, which takes the project all the way to a deployed model on a polished website. This web app went through many iterations, starting as a Flask app on Heroku, to the same app on Render, landing now on a streamlit app. The previous implementation in Flask can be found in the GitHub repo.
 
-<img src="/images/web_app.PNG">
+<img src="/images/web_app.webp" alt="Digit recognition web app: a canvas for drawing a digit with the model's prediction" loading="lazy">
 
 ---
 
@@ -70,7 +74,7 @@ Coursework coved a variety of numerical methods and data operations, including b
 - Nonlinear parameter estimation (least squares optimization)
 - Numerical solutions to differential equations
 
-<img src="/images/thumbnail_teaching.png">
+<img src="/images/thumbnail_teaching.webp" alt="Computational presentations for teaching chemical engineering coursework" loading="lazy">
 
 ---
 
@@ -80,7 +84,7 @@ Coursework coved a variety of numerical methods and data operations, including b
 
 A use-specific automation of a repetitive e-commerce task utilizing an open-source API and computer vision. Use has saved approximately 50 hours of work thusfar, and counting.
 
-<img src="/images/eBay Automation Flowchart.png">
+<img src="/images/ebay-automation-flowchart.webp" alt="Flowchart of the Pokémon card eBay listing automation pipeline" loading="lazy">
 
 ---
 
@@ -93,7 +97,7 @@ A use-specific automation of a repetitive e-commerce task utilizing an open-sour
 
 An analysis of the UCI machine learning repository's red wine quality dataset, to classify wine qualities from their characteristics.
 
-<img src="/images/thumbnail_wine.png">
+<img src="/images/thumbnail_wine.webp" alt="Red wine quality classification project thumbnail" loading="lazy">
 
 ---
 
@@ -104,7 +108,7 @@ An analysis of the UCI machine learning repository's red wine quality dataset, t
 
 An NLP machine learning pipeline for the Sentiment140 dataset.
 
-<img src="/images/thumbnail_twitter.png">
+<img src="/images/thumbnail_twitter.webp" alt="Twitter sentiment analysis project thumbnail" loading="lazy">
 
 ---
 

@@ -3,7 +3,7 @@ title:
    Turner Luke
  </p>
  
-logo: "/images/myFaceCirc.png?raw=true"  # Bio image
+logo: "/images/myFaceCirc.webp"  # Bio image
 
 description: > # Bio text (Left side)
   
@@ -37,7 +37,7 @@ description: > # Bio text (Left side)
     
   </p>
   
-  <img src= /images/map_pin.png height=24>   Austin, Texas
+  <img src="/images/map_pin.webp" height=24 alt="">   Austin, Texas
   
   <br>
   <br>
@@ -52,4 +52,17 @@ description: > # Bio text (Left side)
   
 # Styles, layouts, and includes are vendored locally under _sass/ and _layouts/,
 # and compiled via assets/css/style.scss. No gem/remote theme is used.
-google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+
+# SEO / metadata
+author: Turner Luke
+lang: en-US
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+exclude:
+  - README.md
+  - Gemfile
+  - bin/
+  - vendor/
