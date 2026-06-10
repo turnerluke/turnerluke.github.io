@@ -1,0 +1,74 @@
+// Dark color scheme + theme toggle, layered on top of jekyll-theme-minimal.
+// Light is the base theme; these rules apply only when <html data-theme="dark">.
+// Palette carried over from the old dark-minimal theme.
+
+$dark-bg:      #282828;
+$dark-accent:  #55b2de;
+$dark-text:    #c9c9c9;
+$dark-heading: #ffffff;
+$dark-muted:   #9a9a9a;
+$dark-border:  #444444;
+$dark-code-bg: #1e1e1e;
+
+// --- Toggle button (styled for both themes) ---
+.theme-toggle {
+  position: fixed;
+  top: 14px;
+  right: 14px;
+  z-index: 1000;
+  width: 40px;
+  height: 40px;
+  padding: 0;
+  border-radius: 50%;
+  border: 1px solid #ccc;
+  background: #fff;
+  color: inherit;
+  font-size: 18px;
+  line-height: 1;
+  cursor: pointer;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.25);
+  transition: background-color 0.2s ease, border-color 0.2s ease;
+
+  &:hover { border-color: $dark-accent; }
+}
+
+// --- Dark overrides ---
+html[data-theme="dark"] {
+  background-color: $dark-bg;
+
+  body {
+    background-color: $dark-bg;
+    color: $dark-text;
+  }
+
+  h1, h2, h3, h4, h5, h6 { color: $dark-heading; }
+
+  a {
+    color: $dark-accent;
+    &:hover, &:focus { color: lighten($dark-accent, 12%); }
+  }
+  a small { color: $dark-muted; }
+
+  strong, dt, th { color: $dark-heading; }
+
+  blockquote { border-left-color: $dark-border; color: $dark-muted; }
+  hr { background: $dark-border; }
+
+  th, td { border-bottom-color: $dark-border; }
+  section { border-color: $dark-border; } // visible at the mobile breakpoint
+
+  code, pre { color: #ddd; }
+  pre {
+    background: $dark-code-bg;
+    border-color: $dark-border;
+  }
+
+  // Download buttons from the base theme, if ever enabled
+  ul.downloads { background: #333; border-color: $dark-border; }
+
+  .theme-toggle {
+    background: #3a3a3a;
+    border-color: #555;
+    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.5);
+  }
+}
