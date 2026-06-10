@@ -46,6 +46,7 @@ description: > # Bio text (Left side)
 # and compiled via assets/css/style.scss. No gem/remote theme is used.
 
 # SEO / metadata
+repository: turnerluke/turnerluke.github.io  # used by jekyll-github-metadata (site.github.*)
 author: Turner Luke
 lang: en-US
 
