@@ -50,5 +50,6 @@ description: > # Bio text (Left side)
   University of Wisconsin - Madison, BS: Chemical Engineering, BS: Chemistry
   
   
-theme: dark-minimal
+# Styles, layouts, and includes are vendored locally under _sass/ and _layouts/,
+# and compiled via assets/css/style.scss. No gem/remote theme is used.
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
