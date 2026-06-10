@@ -44,6 +44,7 @@ description: > # Bio text (Left side)
 repository: turnerluke/turnerluke.github.io  # used by jekyll-github-metadata (site.github.*)
 author: Turner Luke
 lang: en-US
+google_analytics: G-H6RLXGEN50  # GA4 Measurement ID; only loaded in production builds
 
 plugins:
   - jekyll-seo-tag
