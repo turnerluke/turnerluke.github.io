@@ -1,6 +1,19 @@
 # Project cards rendered on the home page (index.md) via a Liquid loop.
 # Cards are ordered by `relevance` (highest first) — change a score to reorder.
 
+- title: CMS Open Data Analytics Platform
+  url: https://github.com/turnerluke/cms-open-data
+  relevance: 99
+  badges:
+    - label: View Evidence Dashboards
+      img: "https://img.shields.io/static/v1?label=Evidence&message=View%20Evidence%20Dashboards&color=black&style=for-the-badge&logo=data:image/svg%2bxml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBzdGFuZGFsb25lPSJubyI/Pgo8IURPQ1RZUEUgc3ZnIFBVQkxJQyAiLS8vVzNDLy9EVEQgU1ZHIDIwMDEwOTA0Ly9FTiIKICJodHRwOi8vd3d3LnczLm9yZy9UUi8yMDAxL1JFQy1TVkctMjAwMTA5MDQvRFREL3N2ZzEwLmR0ZCI+CjxzdmcgdmVyc2lvbj0iMS4wIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciCiB3aWR0aD0iNDAwLjAwMDAwMHB0IiBoZWlnaHQ9IjQwMC4wMDAwMDBwdCIgdmlld0JveD0iMCAwIDQwMC4wMDAwMDAgNDAwLjAwMDAwMCIKIHByZXNlcnZlQXNwZWN0UmF0aW89InhNaWRZTWlkIG1lZXQiPgoKPGcgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMC4wMDAwMDAsNDAwLjAwMDAwMCkgc2NhbGUoMC4xMDAwMDAsLTAuMTAwMDAwKSIKZmlsbD0iIzAwMDAwMCIgc3Ryb2tlPSJub25lIj4KPHBhdGggZD0iTTAgMjAwMCBsMCAtMjAwMCAyMDAwIDAgMjAwMCAwIDAgMjAwMCAwIDIwMDAgLTIwMDAgMCAtMjAwMCAwIDAKLTIwMDB6IG0yODQzIDkxNCBsNzcgLTcgMCAtMTk5IDAgLTE5OSAtMTg3IDcgYy0zMzIgMTEgLTUxMCAtMTcgLTcyMiAtMTE1Ci0yMjkgLTEwNiAtMzExIC0xMjEgLTY3MyAtMTIxIGwtMjU4IDAgMCAyMDAgMCAyMDAgMjUzIDAgYzM1OSAwIDQ1NyAxOCA2NzcKMTIzIDEzOCA2NSAyNTQgOTYgNDE1IDExMCA3NSA3IDM0MiA3IDQxOCAxeiBtLTMxMyAtNzkzIGwwIC0xOTggLTk3IC03IGMtMTc4Ci0xMiAtMjQ0IC0zMSAtNDk4IC0xNDMgLTE2OSAtNzUgLTI5MSAtOTMgLTYyNyAtOTMgbC0yMjggMCAwIDE5OSAwIDE5OSAyNzggNQpjMzU4IDYgNDU5IDI1IDY2MiAxMjcgMTMwIDY1IDMwMCAxMDcgNDQ4IDEwOSBsNjIgMSAwIC0xOTl6IG0zMDggLTQwMSBsODIgMAowIC0yMDAgMCAtMjAwIC0yNTcgMSBjLTM1MyAxIC00NDkgLTE3IC02NzIgLTEyMCAtNjkgLTMzIC0xNjQgLTY4IC0yMTEgLTgwCi0xMjMgLTMxIC0zMzQgLTQ1IC01MzIgLTM2IGwtMTY4IDcgMCAyMDEgMCAyMDAgMTcwIC03IGMxOTkgLTcgNDE4IDcgNTI3IDM0CjQyIDExIDExMyAzNiAxNTcgNTYgMjQ1IDExMCAzMTIgMTI5IDQ5NiAxNDQgNTggNSAxNTUgNyAyMTUgNCA2MSAtMiAxNDcgLTQKMTkzIC00eiIvPgo8L2c+Cjwvc3ZnPgo="
+      url: https://turnerluke.github.io/cms-open-data/
+    - label: View on GitHub
+      img: "https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub&style=for-the-badge"
+      url: https://github.com/turnerluke/cms-open-data
+  body: |
+    A production-grade analytics platform built on 44 public CMS (Centers for Medicare & Medicaid Services) datasets, spanning hospitals, clinicians, nursing homes, home health & hospice, drug spending, and the ACA Marketplace. Dagster orchestrates ingestion through a retry-hardened API client into a DuckDB warehouse; dbt transforms the raw data through staging, conformed dimensions, and analytic marts guarded by roughly 600 data-quality tests; and Evidence.dev renders eight interactive dashboard pages, with the entire warehouse rebuilt from public APIs and redeployed to GitHub Pages by a weekly CI pipeline. Highlights include multi-million-row fact tables (5.4M Marketplace premium scenarios), streaming ingestion of an 8+ GB Open Payments extract on GitHub-hosted runners, and a registry-driven design where adding a new dataset is a single TOML entry.
+
 - title: End-to-End Data Engineering Pipeline
   url: https://github.com/turnerluke/fetch-analytics-challenge
   relevance: 98
