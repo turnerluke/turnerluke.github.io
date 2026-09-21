@@ -14,6 +14,16 @@
   body: |
     A production-grade analytics platform built on 44 public CMS (Centers for Medicare & Medicaid Services) datasets, spanning hospitals, clinicians, nursing homes, home health & hospice, drug spending, and the ACA Marketplace. Dagster orchestrates ingestion through a retry-hardened API client into a DuckDB warehouse; dbt transforms the raw data through staging, conformed dimensions, and analytic marts guarded by roughly 600 data-quality tests; and Evidence.dev renders eight interactive dashboard pages, with the entire warehouse rebuilt from public APIs and redeployed to GitHub Pages by a weekly CI pipeline. Highlights include multi-million-row fact tables (5.4M Marketplace premium scenarios), streaming ingestion of an 8+ GB Open Payments extract on GitHub-hosted runners, and a registry-driven design where adding a new dataset is a single TOML entry.
 
+- title: Streaming Lakehouse Demo
+  url: https://github.com/turnerluke/streaming-lakehouse-demo
+  relevance: 97
+  badges:
+    - label: View on GitHub
+      img: "https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub&style=for-the-badge"
+      url: https://github.com/turnerluke/streaming-lakehouse-demo
+  body: |
+    A real-time data platform demonstrating the streaming half of a modern data stack. The GitHub Events firehose flows through a Kafka producer/consumer pair into a bronze landing table, dbt transforms it through a silver staging view and gold marts (including an incremental SCD Type 2 repo dimension and an hourly event fact), and Dagster wires the whole thing into a single asset graph so materialization moves in dependency order from API to dashboard-ready tables. The same models run on either DuckDB (local, zero-cost) or BigQuery (cloud) via adapter-dispatched dbt macros, so a handful of `uv run dbt` commands produce a populated warehouse in ~30 seconds without touching cloud infrastructure. Includes a Redpanda-backed integration test via testcontainers, Terraform-managed GCP scaffolding for the cloud path, and a repo-standards test suite that enforces `ruff select = ["ALL"]`, a `typing.Any` ban, per-linter parallel CI jobs, and the sprint-per-PR discipline documented in AGENTS.md.
+
 - title: End-to-End Data Engineering Pipeline
   url: https://github.com/turnerluke/fetch-analytics-challenge
   relevance: 98

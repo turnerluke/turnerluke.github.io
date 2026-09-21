@@ -4,3 +4,6 @@ _site/
 vendor/
 .bundle/
 Gemfile.lock
+
+# Claude Code runtime artifacts
+.claude/
